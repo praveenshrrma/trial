@@ -15,7 +15,7 @@ import PropTypes from 'prop-types';
  */
 
 const ButtonPrimary = ({
-  href = '/Resume_PraveenSharrma.pdf',
+  href = '/Praveen_Sharrma_Resume.pdf',
   target = '_blank',
   label,
   icon,
